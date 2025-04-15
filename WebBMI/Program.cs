@@ -14,7 +14,7 @@ namespace WebBMI
 {
     public class Program
     {
-        static string AppConfigConnStr = "________AppConfigConnStr_______";
+        static string AppConfigConnStr = "Endpoint=https://appconfig20250415.azconfig.io;Id=MCiR;Secret=FH4Yq8CRiagsXWOnORQ2TNEr4db3ZXWqpTNywr2mcorfKLsAZh58JQQJ99BDACBsN548Atl6AAACAZAC20aC";
         public static void Main(string[] args)
         {
             //CreateHostBuilder(args).Build().Run();
